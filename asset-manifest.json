@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/facebook-clone/static/js/main.a23726e4.js",
+    "static/media/pexels-nathan-tran-16776159.jpg": "/facebook-clone/static/media/pexels-nathan-tran-16776159.7533fc3e9dfb62c02883.jpg",
+    "static/media/pexels-armin-rimoldi-5553094.jpg": "/facebook-clone/static/media/pexels-armin-rimoldi-5553094.28a441cad316e1bbd8a7.jpg",
+    "static/media/pexels-michael-block-3225517.jpg": "/facebook-clone/static/media/pexels-michael-block-3225517.2470225eabd17f796f67.jpg",
+    "static/media/shrimp.jpg": "/facebook-clone/static/media/shrimp.c6a4cd050a94ccbdd24e.jpg",
+    "static/media/ahmed-hessen.jpg": "/facebook-clone/static/media/ahmed-hessen.d39f15a5de1463c7fe78.jpg",
+    "index.html": "/facebook-clone/index.html",
+    "main.a23726e4.js.map": "/facebook-clone/static/js/main.a23726e4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a23726e4.js"
+  ]
+}
